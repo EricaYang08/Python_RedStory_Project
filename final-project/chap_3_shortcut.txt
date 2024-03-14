@@ -1,0 +1,9 @@
+The path Red chose led her deeper into the heart of the forest. The trees grew denser, and the air felt heavier. As she ventured further, a figure emerged from the shadows - a large, cunning wolf with piercing eyes. The wolf approached Red with a sly grin, its gaze fixed intently on her.
+
+Wolf's Opening Remark: "Well, well, what do we have here? A little girl all alone in the woods. Where might you be going?"
+
+Red's Response Options:
+---
+"I'm off to my Granny's house. She lives just beyond the forest." (Reveals information)
+
+"That's for me to know. I'm not supposed to talk to strangers." (Conceals information)
